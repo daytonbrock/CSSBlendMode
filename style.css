@@ -1,4 +1,11 @@
-h1 {
+.blendedImage {
     display: flex;
     justify-content: center;
+    width: 1100px;
+    height: 700px;
+    background-image: 
+    url(https://mail.google.com/mail/u/0?ui=2&ik=8b77771093&attid=0.1&permmsgid=msg-a:r5576567425565795527&th=16a0c952e013ec57&view=fimg&sz=s0-l75-ft&attbid=ANGjdJ8vJvVZ98wl9E3WRyl8Z39XZ9CsHZ41XAHmtc7zifD4U5X3_5hIDYOyw83ERN2cBs562Y9L4cdQdt4HDse4qCd7rCP8_b6rJwvkFakW8t17ILoGwD4IXwjfnj4&disp=emb&realattid=16a0c94bbd78c274f241);
+    background-color: #40a322;
+    background-size: cover;
+    background-blend-mode: hard-light;
 }
